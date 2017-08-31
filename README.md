@@ -2,4 +2,4 @@
 
 print 'Hello World!'
 
-this is my first program.
+this is my first python program.
